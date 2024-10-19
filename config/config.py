@@ -82,7 +82,7 @@ OWNER_ID = list(
 # make your bots privacy from telegra.ph and put your url here
 
 PRIVACY_LINK = getenv(
-    "PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-DV-MUSIC-08-30"
+    "PRIVACY_LINK", "t.me/shubham_x_official"
 )
 
 
@@ -114,14 +114,14 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 # Only  Links formats are  accepted for this Var value.ᴘʀᴏᴍᴏᴛɪᴏɴ ᴘʀᴏᴏғ @Dns_Official_Channel @DNS_NETWORK ᴀʙᴏᴜᴛ @S12kgamer_YT
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/Dns_Official_Channel"
+    "SUPPORT_CHANNEL", "https://t.me/unreal_x_bot"
 )  # Example:- https://t.me/Dns_Official_Channel
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/DNS_NETWORK"
+    "SUPPORT_GROUP", "https://t.me/unreal_x_support"
 )  # Example:- https://t.me/DNS_NETWORK
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/DNS_NETWORK"
+    "SUPPORT_GROUP", "https://t.me/unreal_x_support"
 )  # Example:- https://t.me/DNS_NETWORK
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
@@ -144,7 +144,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/IamDvis/DV-MUSIC")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/MonarchXshubham/DV-MUSIC")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
