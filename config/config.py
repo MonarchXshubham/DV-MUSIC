@@ -82,7 +82,7 @@ OWNER_ID = list(
 # make your bots privacy from telegra.ph and put your url here
 
 PRIVACY_LINK = getenv(
-    "PRIVACY_LINK", "t.me/shubham_x_official"
+    "PRIVACY_LINK", "t.me/unreal_X_shubham"
 )
 
 
@@ -96,7 +96,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/IamDvis/DV-MUSIC",
+    "https://github.com/MonarchXshubham/DV-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
@@ -114,14 +114,14 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 # Only  Links formats are  accepted for this Var value.ᴘʀᴏᴍᴏᴛɪᴏɴ ᴘʀᴏᴏғ @Dns_Official_Channel @DNS_NETWORK ᴀʙᴏᴜᴛ @S12kgamer_YT
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/unreal_x_bot"
+    "SUPPORT_CHANNEL", "https://t.me/vr_unreal"
 )  # Example:- https://t.me/Dns_Official_Channel
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/unreal_x_support"
+    "SUPPORT_GROUP", "https://t.me/vr_support"
 )  # Example:- https://t.me/DNS_NETWORK
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/unreal_x_support"
+    "SUPPORT_GROUP", "https://t.me/vr_support"
 )  # Example:- https://t.me/DNS_NETWORK
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
