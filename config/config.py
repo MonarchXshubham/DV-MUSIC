@@ -53,7 +53,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/IamDvis/DV-EXTRAPLUGIN",
+    "https://github.com/MonarchXshubham/DV-MUSIC/DV-EXTRAPLUGIN",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
@@ -70,7 +70,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002475874219"))
 
 
 # Your User ID.
